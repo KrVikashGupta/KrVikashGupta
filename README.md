@@ -5,7 +5,7 @@ Hello, my name is Vikash Kumare Gupta.
 # Hi there! Welcome to my GitHub Profile! ✨
 
 <div align="center">
-    <img width="90%" src="./assets/quote1-d.jpeg">
+    <img width="90%" src="quote1-d.jpeg">
 </div>
 
 
