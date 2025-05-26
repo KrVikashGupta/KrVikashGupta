@@ -5,10 +5,10 @@ Hello, my name is Vikash Kumare Gupta.
 # Hi there! Welcome to my GitHub Profile! ✨
 
 <div align="center">
-    <img width="90%" src="./assets/quote1-d.jpeg">
+    <img width="90%" src="quote1-d.jpeg">
 </div>
 
-## <img src="./assets/waving-hand.webp" width="4%"> My name is Vikash Kumar Gupta <img src="./assets/waving-hand.webp" width="4%">
+## <img src="./assets/waving-hand.webp" width="4%"> My name is Vikash Kumar Gupta <img src="waving-hand.webp" width="4%">
 
 📖 I'm a passionate self-taught Full Stack Web Developer with a love for bringing ideas to life through elegant, user-friendly interfaces 🤕 my passion for software lies with dreaming up ideas and making them come true with elegant interfaces 🤓 i take great care in the experience, architecture, and code quality of the things I build 💻
 
@@ -19,7 +19,7 @@ Hello, my name is Vikash Kumare Gupta.
 📖 To be continued...
 
 <div align="center">
-    <img width="60%" src="./assets/quote2.jpeg">
+    <img width="60%" src="quote2.jpeg">
 </div>
 
 <div>
@@ -36,8 +36,9 @@ Hello, my name is Vikash Kumare Gupta.
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=KrVikashGupta.KrVikashGupta)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrVikashGupta&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-![](https://nirzak-streak-stats.vercel.app/?user=KrVikashGupta&theme=dark&hide_border=false)
 <img src="./digital.gif" width="150" />
+![](https://nirzak-streak-stats.vercel.app/?user=KrVikashGupta&theme=dark&hide_border=false)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=KrVikashGupta&icon=0&color=0)](https://visitcount.itsvg.in)
 
