@@ -37,7 +37,6 @@ Hello, my name is Vikash Kumare Gupta.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrVikashGupta&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 <img src="./digital.gif" width="150" /> 
-<img alt="GIF" src="./dance.gif" width="300"/>
 ![](https://nirzak-streak-stats.vercel.app/?user=KrVikashGupta&theme=dark&hide_border=false)
 
 <div align="center">
