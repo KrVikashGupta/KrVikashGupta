@@ -35,29 +35,13 @@ Hello, my name is Vikash Kumare Gupta.
 ## 📊 Stats
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=KrVikashGupta.KrVikashGupta)
 
-
-![](https://nirzak-streak-stats.vercel.app/?user=KrVikashGupta&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrVikashGupta&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
+![](https://nirzak-streak-stats.vercel.app/?user=KrVikashGupta&theme=dark&hide_border=false)
 ---
 [![](https://visitcount.itsvg.in/api?id=KrVikashGupta&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
 
-## 📊 Stats
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=KrVikashGupta.KrVikashGupta)
-
-<div align="center">
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrVikashGupta&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 <img src="./digital.gif" width="150" />
-</div>
-![](https://nirzak-streak-stats.vercel.app/?user=KrVikashGupta&theme=dark&hide_border=false)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=KrVikashGupta&icon=0&color=0)](https://visitcount.itsvg.in)
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
-
 
 
