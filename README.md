@@ -36,7 +36,10 @@ Hello, my name is Vikash Kumare Gupta.
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=KrVikashGupta.KrVikashGupta)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrVikashGupta&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-<img src="./digital.gif" width="150" /> ![](https://nirzak-streak-stats.vercel.app/?user=KrVikashGupta&theme=dark&hide_border=false)
+<img src="./digital.gif" width="150" /> <div align="center">
+  <img alt="GIF" src="./dance.gif" width="300"/>
+</div>
+![](https://nirzak-streak-stats.vercel.app/?user=KrVikashGupta&theme=dark&hide_border=false)
 
 <div align="center">
   <img width="300" src="./hello.gif">
