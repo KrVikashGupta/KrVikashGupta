@@ -39,6 +39,9 @@ Hello, my name is Vikash Kumare Gupta.
 <img src="./digital.gif" width="150" /> 
 ![](https://nirzak-streak-stats.vercel.app/?user=KrVikashGupta&theme=dark&hide_border=false)
 
+<div align="center">
+  <img width="300" src="./hello.gif">
+</div>
 
 
 ---
