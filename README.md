@@ -2,14 +2,14 @@
 Hello, my name is Vikash Kumare Gupta.
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code+Bold&size=28&pause=1000&color=000000&width=800&lines=Hi+there!+👋;Welcome+to+my+GitHub+Profile!+✨)](https://git.io/typing-svg)
-
-
-<div align="center">
-    <img width="90%" src="quote1-d.jpeg">
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code+Bold&size=28&pause=1000&color=000000&width=800&lines=Hi+there!+Welcome+to+my+GitHub+Profile!+✨)](https://git.io/typing-svg)
 
 ## <img src="waving-hand.webp" width="4%"> My name is Vikash Kumar Gupta <img src="waving-hand.webp" width="4%">
+
+<div align="center">
+    <img width="90%" src="quote1-d.jpeg">  g
+</div>
+
 
 📖 I'm a passionate self-taught Full Stack Web Developer with a love for bringing ideas to life through elegant, user-friendly interfaces 🤕 my passion for software lies with dreaming up ideas and making them come true with elegant interfaces 🤓 i take great care in the experience, architecture, and code quality of the things I build 💻
 
