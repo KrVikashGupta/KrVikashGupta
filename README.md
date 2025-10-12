@@ -10,6 +10,7 @@ Hello, my name is Vikash Kumare Gupta.
     <img width="90%" src="quote1-d.jpeg">  g
 </div>
 
+### 👨‍💻 A new Journey - From Learner to Full Stack Developer 🧐 🔎
 
 📖 I'm a passionate self-taught Full Stack Web Developer with a love for bringing ideas to life through elegant, user-friendly interfaces 🤕 my passion for software lies with dreaming up ideas and making them come true with elegant interfaces 🤓 i take great care in the experience, architecture, and code quality of the things I build 💻
 
