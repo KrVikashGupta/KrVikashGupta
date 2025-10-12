@@ -32,9 +32,9 @@ Hello, my name is Vikash Kumare Gupta.
 📖 I have been learning and exploring these following tools and languages
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_Dark.gif?raw=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_White.gif?raw=true">
-  <img align="right" width="30%" alt="GIF description" src="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_White.gif?raw=true"> 
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KrVikashGupta/KrVikashGupta/blob/main/Skills_Animation_Dark.gif?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/KrVikashGupta/KrVikashGupta/blob/main/Skills_Animation_White.gif?raw=true">
+  <img align="right" width="30%" alt="GIF description" src="https://github.com/KrVikashGupta/KrVikashGupta/blob/main/Skills_Animation_White.gif?raw=true"> 
 </picture>
 <br /> 
 
