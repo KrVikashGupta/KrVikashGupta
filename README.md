@@ -2,7 +2,7 @@
 Hello, my name is Vikash Kumare Gupta.
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff5733&size=35&center=true&vCenter=true&width=1000&lines=Hi+there!+%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋+Welcome+to+my+GitHub+Profile!+✨)](https://git.io/typing-svg)
 
 
 <div align="center">
