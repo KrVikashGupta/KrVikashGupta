@@ -58,9 +58,11 @@ Hello, my name is Vikash Kumare Gupta.
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=krvikashgupta&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
 </p>
 
-
+<!-- GitHub Activity Graph -->
 [![KrVikashGupta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krvikashgupta&theme=rogue)](https://github.com/krvikashgupta/github-readme-activity-graph)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=krvikashgupta&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <div align="center">
   <img width="300" src="./hello.gif">
@@ -68,7 +70,6 @@ Hello, my name is Vikash Kumare Gupta.
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KrVikashGupta&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
