@@ -56,9 +56,9 @@ Hello, my name is Vikash Kumare Gupta.
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KrVikashGupta&icon=0&color=0)](https://visitcount.itsvg.in)
-
 [![KrVikashGupta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krvikashgupta&theme=rogue)](https://github.com/krvikashgupta/github-readme-activity-graph)
+
+[![](https://visitcount.itsvg.in/api?id=KrVikashGupta&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
