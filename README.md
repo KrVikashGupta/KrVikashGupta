@@ -49,6 +49,18 @@ Hello, my name is Vikash Kumare Gupta.
 <img src="./digital.gif" width="150" /> 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=KrVikashGupta&theme=dark&hide_border=false)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=krvikashgupta&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krvikashgupta&theme=onedark&custom_title=top-languages&hide_border=false&layout=compact">
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=krvikashgupta&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
+</p>
+
+
+[![KrVikashGupta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krvikashgupta&theme=rogue)](https://github.com/krvikashgupta/github-readme-activity-graph)
+
 
 <div align="center">
   <img width="300" src="./hello.gif">
@@ -56,8 +68,6 @@ Hello, my name is Vikash Kumare Gupta.
 
 
 ---
-[![KrVikashGupta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krvikashgupta&theme=rogue)](https://github.com/krvikashgupta/github-readme-activity-graph)
-
 [![](https://visitcount.itsvg.in/api?id=KrVikashGupta&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
