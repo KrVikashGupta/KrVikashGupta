@@ -16,7 +16,7 @@ Hello, my name is Vikash Kumare Gupta.
 
 📖 i am also an open-source enthusiast and maintainer 😕 i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source 🌍
 
-📖 Self-learning is one of the most important and enjoyable parts of my life ☺️ I soon found out that GitHub is such a good place for me to record my never-ending learning journey🔥 To me, it is my open learning journal where I can not only keep my notes and references while learning new technical stuff but also share them with others who may find them helpful 📔
+📖 __Self-learning__ is one of the most important and enjoyable parts of my life ☺️ I soon found out that GitHub is such a good place for me to record my never-ending learning journey🔥 To me, it is my open learning journal where I can not only keep my notes and references while learning new technical stuff but also share them with others who may find them helpful 📔
 
 📖 To be continued...
 
