@@ -50,7 +50,12 @@ Hello, my name is Vikash Kumare Gupta.
 <img src="./digital.gif" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krvikashgupta&theme=onedark&layout=compact" height="150"/>
 </p>
+</p>
 
+<p align="center">
+  <img width="70%"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=krvikashgupta&theme=onedark&hide_border=false&v=1" />
+</p>
 
 <!-- GitHub Activity Graph -->
 [![KrVikashGupta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krvikashgupta&theme=rogue)](https://github.com/krvikashgupta/github-readme-activity-graph)
