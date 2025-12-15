@@ -52,8 +52,10 @@ Hello, my name is Vikash Kumare Gupta.
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=krvikashgupta&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
+  <img width="70%"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=krvikashgupta&theme=onedark&hide_border=false&v=1" />
 </p>
+
 
 
 <!-- GitHub Activity Graph -->
