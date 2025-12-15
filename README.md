@@ -46,20 +46,11 @@ Hello, my name is Vikash Kumare Gupta.
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=KrVikashGupta.KrVikashGupta)
 
 <p align="center">
-  <img width="35%" 
-       src="https://github-readme-stats.vercel.app/api?username=krvikashgupta&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact" />
-
-  <img width="18%" 
-       src="./digital.gif" />
-
-  <img width="35%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=krvikashgupta&theme=onedark&hide_border=false&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=krvikashgupta&show_icons=true&theme=onedark&layout=compact" width="300"/>
+<img src="./digital.gif" width="120"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krvikashgupta&theme=onedark&layout=compact" width="260"/>
 </p>
 
-<p align="center">
-  <img width="70%"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=krvikashgupta&theme=onedark&hide_border=false&v=1" />
-</p>
 
 
 <!-- GitHub Activity Graph -->
