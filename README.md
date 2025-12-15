@@ -61,7 +61,7 @@ Hello, my name is Vikash Kumare Gupta.
 [![KrVikashGupta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krvikashgupta&theme=rogue)](https://github.com/krvikashgupta/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=krvikashgupta&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=krvikashgupta&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
