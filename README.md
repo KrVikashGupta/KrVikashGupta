@@ -73,6 +73,14 @@ Hello, my name is Vikash Kumare Gupta.
 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
+## 📊 Stats
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=KrVikashGupta.KrVikashGupta)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrVikashGupta&show_icons=true&theme=onedark)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=KrVikashGupta&theme=onedark)
+
 
 
 
