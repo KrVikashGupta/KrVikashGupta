@@ -62,8 +62,6 @@ Hello, my name is Vikash Kumare Gupta.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=krvikashgupta&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=krvikashgupta&theme=onedark)
-
 
 
 <div align="center">
