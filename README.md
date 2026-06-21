@@ -49,6 +49,7 @@ Hello, my name is Vikash Kumare Gupta.
 <img src="https://github-readme-stats.vercel.app/api?username=krvikashgupta&show_icons=true&theme=onedark&layout=compact" height="150"/>
 <img src="./digital.gif" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krvikashgupta&theme=onedark&layout=compact" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krvikashgupta&theme=onedark&layout=compact" height="150"/>
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginny100&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact">
 
 </p>
