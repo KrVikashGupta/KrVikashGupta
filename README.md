@@ -7,7 +7,7 @@ Hello, my name is Vikash Kumare Gupta.
 ## <img src="waving-hand.webp" width="4%"> My name is Vikash Kumar Gupta <img src="waving-hand.webp" width="4%">
 
 <div align="center">
-    <img width="90%" src="quote1-d.jpeg">  g
+    <img width="90%" src="quote1-d.jpeg">  
 </div>
 
 ### 👨‍💻 A new Journey - From Learner to Full Stack Developer 🧐 🔎
