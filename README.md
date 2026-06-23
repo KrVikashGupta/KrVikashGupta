@@ -171,7 +171,7 @@ Hello, my name is Vikash Kumare Gupta.
 ---
 <div align="center">
 
-### 💬 Let's Connect & Build Something Awesome!
+## 💬 Let's Connect & Build Something Awesome!
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikash1995/)
 [![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikashkumargupta907@gmail.com)
