@@ -1,12 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code+Bold&size=28&pause=1000&color=000000&width=800&lines=Hi+there!+Welcome+to+my+GitHub+Profile!+✨)](https://git.io/typing-svg)
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Profile Banner" />
-</div>
-
----
-
-## 👋 My name is Vikash Kumar Gupta
 
 <!--
 Hello, my name is Vikash Kumare Gupta.
