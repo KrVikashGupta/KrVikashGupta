@@ -9,7 +9,7 @@ Hello, my name is Vikash Kumare Gupta.
 
 <div align="center">
     <img width="90%" src="quote1-d.jpeg">  
-</div>
+</div> 
 
 ### 👨‍💻 A new Journey - From Learner to Full Stack Developer 🧐 🔎
 
