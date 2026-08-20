@@ -167,7 +167,7 @@ Hello, my name is Vikash Kumare Gupta.
 ## 🐍 Contribution Snake
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
-![GitHub contribution snake](https://raw.githubusercontent.com/KrVikashGupta/KrVikashGupta/output/github-contribution-grid-snake-dark.svg)
+
 ---
 
 <div align="center">
