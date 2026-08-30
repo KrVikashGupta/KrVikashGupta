@@ -70,7 +70,7 @@ Hello, my name is Vikash Kumare Gupta.
 - 📄 Secure medical report storage with **Azure Blob Storage**
 - 🔐 Enterprise-grade architecture with **API Management & Key Vault**
 
-`C#` `ASP.NET Core` `Azure` `Service Bus` `Logic Apps` `SQL Database`
+`C#` `ASP.NET Core` `Azure` `Service Bus` `Logic Apps` `SQL Database` 
 
 </td>
 </tr>
