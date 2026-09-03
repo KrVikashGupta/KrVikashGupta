@@ -148,7 +148,7 @@ Hello, my name is Vikash Kumare Gupta.
          src="https://gh-readme-profile.vercel.app/api?username=KrVikashGupta&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" />
   </a>
   
-  <img src="./digital.gif" width="15%" height="150"/>
+  <img src="./digital.gif" width="16%" height="160"/>
 
   <a href="https://github.com/KrVikashGupta">
     <img alt="KrVikashGupta's GitHub Stats"
