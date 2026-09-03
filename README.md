@@ -142,6 +142,18 @@ Hello, my name is Vikash Kumare Gupta.
 ## 📊 Stats
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=KrVikashGupta.KrVikashGupta)
+<h1 align="center">📊 GitHub Stats</h1>
+
+<h1 align="center">📊 GitHub Stats</h1>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KrVikashGupta.KrVikashGupta" />
+</p>
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KrVikashGupta.KrVikashGupta" />
+</p>
 
 <p align="center">
   <a href="https://github.com/KrVikashGupta">
