@@ -139,7 +139,6 @@ Hello, my name is Vikash Kumare Gupta.
 ## 📊 Stats
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=KrVikashGupta.KrVikashGupta)
 
-```html
 ## 📊 Stats
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=KrVikashGupta.KrVikashGupta)
@@ -173,7 +172,7 @@ Hello, my name is Vikash Kumare Gupta.
          src="https://github-readme-streak-stats-eight.vercel.app/?user=KrVikashGupta&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" />
   </a>
 </p>
-```
+
 
 <!-- GitHub Activity Graph -->
 [![KrVikashGupta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krvikashgupta&theme=rogue)](https://github.com/krvikashgupta/github-readme-activity-graph)
