@@ -166,18 +166,14 @@ Hello, my name is Vikash Kumare Gupta.
 ---
 ## 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KrVikashGupta/KrVikashGupta/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/KrVikashGupta/KrVikashGupta/output/github-contribution-grid-snake-dark.svg">
-  
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://raw.githubusercontent.com/KrVikashGupta/KrVikashGupta/output/github-contribution-grid-snake.svg">
-  
-  <img alt="github contribution grid snake animation" 
-       src="https://raw.githubusercontent.com/KrVikashGupta/KrVikashGupta/output/github-contribution-grid-snake.svg">
-</picture>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/KrVikashGupta/KrVikashGupta/blob/main/line.gif">
+  <img src="https://github.com/KrVikashGupta/KrVikashGupta/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
+
 
 </div>
 ---
