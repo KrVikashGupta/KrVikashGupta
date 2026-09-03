@@ -147,9 +147,15 @@ Hello, my name is Vikash Kumare Gupta.
 </p>
 
 <p align="center">
-  <img width="70%"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=krvikashgupta&theme=onedark&hide_border=false&v=1" />
-</p>
+  <a href="https://github.com/KrVikashGupta">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats"
+         height="210px"
+         alt="KrVikashGupta's streak"
+         width="70%"
+         src="https://github-readme-streak-stats-eight.vercel.app/?user=KrVikashGupta&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" />
+  </a>
+</p> 
+
   <summary><h2>📊 GitHub Stats</h2></summary>
   <br>
 <p align="center">
