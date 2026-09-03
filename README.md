@@ -152,9 +152,6 @@ Hello, my name is Vikash Kumare Gupta.
   </a>
 
   <img src="./digital.gif" height="150"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krvikashgupta&theme=onedark&layout=compact" height="150"/>
-
   <a href="https://github.com/KrVikashGupta">
     <img alt="KrVikashGupta's GitHub Stats"
          width="49%"
