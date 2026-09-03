@@ -140,11 +140,11 @@ Hello, my name is Vikash Kumare Gupta.
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=KrVikashGupta.KrVikashGupta)
 
 
-<p align="center">
-  <a href="https://github.com/KrVikashGupta">
-    <img alt="KrVikashGupta's GitHub stats"
-         width="40%"
-         src="https://gh-readme-profile.vercel.app/api?username=KrVikashGupta&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" />
+<a href="https://github.com/KrVikashGupta">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats"
+         alt="KrVikashGupta's streak"
+         width="74%"
+         src="https://github-readme-streak-stats-eight.vercel.app/?user=KrVikashGupta&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" />
   </a>
   
   <img src="./digital.gif" width="16%"/>
@@ -158,11 +158,10 @@ Hello, my name is Vikash Kumare Gupta.
 
 <p align="center">
   <a href="https://github.com/KrVikashGupta">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats"
+    <img alt="KrVikashGupta's GitHub stats"
          height="210px"
-         alt="KrVikashGupta's streak"
          width="70%"
-         src="https://github-readme-streak-stats-eight.vercel.app/?user=KrVikashGupta&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" />
+         src="https://gh-readme-profile.vercel.app/api?username=KrVikashGupta&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" />
   </a>
 </p>
 
