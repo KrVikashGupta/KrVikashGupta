@@ -157,15 +157,9 @@ Hello, my name is Vikash Kumare Gupta.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KrVikashGupta&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KrVikashGupta&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=4)
 <div align="center">
   <img width="300" src="./hello.gif">
 </div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KrVikashGupta&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
-
 
 ---
 ## 🐍 Contribution Snake
