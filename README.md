@@ -150,7 +150,26 @@ Hello, my name is Vikash Kumare Gupta.
   <img width="70%"
        src="https://github-readme-streak-stats.herokuapp.com/?user=krvikashgupta&theme=onedark&hide_border=false&v=1" />
 </p>
-
+<details open>
+  <summary><h2>📊 GitHub Stats</h2></summary>
+  <br>
+<p align="center">
+  <a href="https://github.com/AhmedDabish">
+    <img alt="Ahmed's GitHub stats" width="49%" height="210px" margin="0" src="https://gh-readme-profile.vercel.app/api?username=AhmedDabish&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" />
+  </a>
+  <a href="https://github.com/AhmedDabish">
+    <img alt="Ahmed's GitHub Stats" width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AhmedDabish&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/AhmedDabish">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats"  height="210px" alt="Ahmed's streak" width="60%" src="https://github-readme-streak-stats-eight.vercel.app/?user=AhmedDabish&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" />
+  </a>
+  <a href="https://github.com/AhmedDabish">
+    <img alt="Ahmed's Top Languages"  height="210px" width="35%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AhmedDabish&langs_count=20&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" />
+  </a>
+</p>
+</details>
 <!-- GitHub Activity Graph -->
 [![KrVikashGupta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krvikashgupta&theme=rogue)](https://github.com/krvikashgupta/github-readme-activity-graph)
 
