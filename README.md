@@ -152,7 +152,7 @@ Hello, my name is Vikash Kumare Gupta.
 
   <a href="https://github.com/KrVikashGupta">
     <img alt="KrVikashGupta's GitHub Stats"
-         width="40%"
+         width="60%"
          src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=KrVikashGupta&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" />
   </a>
 </p>
