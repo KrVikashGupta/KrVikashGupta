@@ -145,7 +145,7 @@ Hello, my name is Vikash Kumare Gupta.
     <img
       title="🔥 Get streak stats for your profile at git.io/streak-stats"
       alt="KrVikashGupta's streak"
-      width="40%"
+      width="50%"
       src="https://github-readme-streak-stats-eight.vercel.app/?user=KrVikashGupta&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd"
     />
   </a>
