@@ -147,11 +147,11 @@ Hello, my name is Vikash Kumare Gupta.
          src="https://gh-readme-profile.vercel.app/api?username=KrVikashGupta&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" />
   </a>
   
-  <img src="./digital.gif" width="15%"/>
+  <img src="./digital.gif" width="16%"/>
 
   <a href="https://github.com/KrVikashGupta">
     <img alt="KrVikashGupta's GitHub Stats"
-         width="45%"
+         width="40%"
          src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=KrVikashGupta&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" />
   </a>
 </p>
