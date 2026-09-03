@@ -166,7 +166,7 @@ Hello, my name is Vikash Kumare Gupta.
   <a href="https://github.com/KrVikashGupta">
     <img
       alt="KrVikashGupta's GitHub stats"
-      width="65%"
+      width="60%"
       src="https://gh-readme-profile.vercel.app/api?username=KrVikashGupta&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3"
     />
   </a>
