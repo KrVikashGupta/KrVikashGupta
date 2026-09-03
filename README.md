@@ -150,7 +150,7 @@ Hello, my name is Vikash Kumare Gupta.
     />
   </a>
 
-  <img src="./digital.gif" width="25%" />
+  <img src="./digital.gif" width="15%" />
 
   <a href="https://github.com/KrVikashGupta">
     <img
