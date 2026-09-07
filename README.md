@@ -184,6 +184,12 @@ Hello, my name is Vikash Kumare Gupta.
   <img width="300" src="./hello.gif">
 </div>
 
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=KrVikashGupta" />
+</div>
+
+
+
 ---
 ## 🐍 Contribution Snake
 <p align="center">
