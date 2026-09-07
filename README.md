@@ -172,8 +172,6 @@ Hello, my name is Vikash Kumare Gupta.
   </a>
 </p>
 
-<!-- GitHub Activity Graph -->
-[![KrVikashGupta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krvikashgupta&theme=rogue)](https://github.com/krvikashgupta/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 <p align="center">
