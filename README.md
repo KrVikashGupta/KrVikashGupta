@@ -163,7 +163,7 @@ Hello, my name is Vikash Kumare Gupta.
 </p>
 
 <p align="center">
-  <a href="https://github.com/KrVikashGupta">
+  <a href="https://github.com/KrVikashGupta"> 
     <img
       alt="KrVikashGupta's GitHub stats"
       width="60%"
